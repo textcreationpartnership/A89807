@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The narrative of the most material proceedings at the sessions for London and Middlesex, begun July the seventh, 1680 Giving an account of the proceedings against John Giles, for being one of those that made the late barbarous attempt upon Justice Arnold. As also of divers other persons convicted of several murders, robberies on the high-way, burglaries, and other felonies; and all other remarkable tryals there: together with the names and crimes of all that received sentence of death; the number of those burnt in the hand, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89807</idno>
+            <idno type="STC">Wing N199C</idno>
+            <idno type="STC">ESTC R215587</idno>
+            <idno type="EEBO-CITATION">99896512</idno>
+            <idno type="PROQUEST">99896512</idno>
+            <idno type="VID">132097</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132097)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2432:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The narrative of the most material proceedings at the sessions for London and Middlesex, begun July the seventh, 1680 Giving an account of the proceedings against John Giles, for being one of those that made the late barbarous attempt upon Justice Arnold. As also of divers other persons convicted of several murders, robberies on the high-way, burglaries, and other felonies; and all other remarkable tryals there: together with the names and crimes of all that received sentence of death; the number of those burnt in the hand, &amp;c.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Trials --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:132097:1"/>
+            <head>THE NARRATIVE Of the moſt Material PROCEEDINGS AT THE SESSIONS For LONDON and MIDDLESEX, Begun <hi>July</hi> the Seventh, 1680.</head>
+            <head type="sub">Giving an Account of the Proceedings againſt <hi>John Giles,</hi> for being one of thoſe that made the late barbarous Attempt upon Juſtice <hi>ARNOLD.</hi>
+            </head>
+            <head type="sub">As alſo of divers other perſons Convicted of ſeveral Murders, Rob<g ref="char:EOLhyphen"/>beries on the High-way, Burglaries, and other Felonies; and all other re<g ref="char:EOLhyphen"/>markable Tryals there: together with the Names and Crimes of all that received Sentence of Death; the Number of thoſe burnt in the Hand, <hi>&amp;c.</hi>
+            </head>
+            <p>THe firſt Trial of note was of a Woman-Servant, who had robb'd her Maſter, at ſeveral times, of a very great Sum of Money: The Gentleman miſs'd about Six hundred pounds, but the Priſoner had Confeſs'd Two hundred, which ſhe purloyn'd by the help of a falſe Key to his Cloſer. Yet now ſhe would ſeem to deny all, and lay it upon ſome other perſons belonging to the Family; but the Crime was too apparent to be evaded, and ſo ſhe was found Guilty.</p>
+            <p>
+               <hi>John Moor</hi> and <hi>Thomas Sides</hi> were Arraigned and Tried on ſeveral Indict<g ref="char:EOLhyphen"/>ments; Firſt for breaking open the Warehouſe of Mr. <hi>Samuel Harris</hi> in <hi>Bar<g ref="char:EOLhyphen"/>tholomew</hi>-Cloſe. The matter appeared to be thus; On the 23th of <hi>June</hi> laſt, theſe Fellows having, 'tis probable, obſerved this Ware-houſe to be well-fur<g ref="char:EOLhyphen"/>niſht with Stuffs, and no body to lie in it, (for Mr. <hi>Harris</hi>'s houſe was elſe<g ref="char:EOLhyphen"/>where at a diſtance) they came about four of the Clock in the Morning and broke it open, and carried away Bundles of Stuff; which a Neighbour ob<g ref="char:EOLhyphen"/>ſerving, thought at firſt by their Habit, that they might be ſome Workmen belonging to Mr. <hi>Harris;</hi> but taking notice that neither he nor his Brother that dwelt with him appeared, when they ſaw the Priſoners come the ſecond time, began to have a Suſpicion of them; though one of the Thieves per<g ref="char:EOLhyphen"/>ceiving himſelf ſeen, knockt a little at the Door before he entred, to colour the buſineſs; however the Witneſs, like an honeſt Man and good Neigbour, went to Mr. <hi>Harris</hi>'s houſe, and calling them up, enquired whether they had employed any perſons to remove any Stuffs that Morning; and being an<g ref="char:EOLhyphen"/>ſwered in the Negative, and ſome of his Family immediately coming forth to look after the Thieves, upon enquiry after ſuch perſons ſo loaded, found they paſs'd through <hi>Ducklane,</hi> and that they were ſeen to go into an Alehouſe with their Bundles, near <hi>Clothfair</hi>-gate. Whereupon knocking there, the Victu<g ref="char:EOLhyphen"/>aller himſelf after ſome time came to the Door, but ſtoutly denied that any
+<pb n="2" facs="tcp:132097:2"/>ſuch people had come into his houſe, or were there; but the Conſtable (whom by that time the Proſecutor had procured) told him, he muſt needs ſearch his houſe; and doing ſo, ſoon found the ſeveral Bundles of Stuffs, but could not ſo readily diſcover the Thieves, for the houſe was contrived with notable private holes, proper for Concealments. So a Workman was called to aſſiſt to finde out any ſuch ſecret places, and in one of them they met with a whole bundle of Perriwigs, and Caſes of Barbers Inſtruments; at laſt they happend'd into a ſmall dark Room, where one of the Priſoners <hi>John Moor</hi> was in Bed, and pretending to be faſt aſleep: yet they obſerv'd the Bed-cloaths very ſmooth, as if he were but juſt laid down; and turning off the Cloaths, they found he had ſtill one ſtocking on. And looking under the Bed, they eſpied his Com<g ref="char:EOLhyphen"/>panion, who had hid himſelf there, and being dragg'd out was very unruly, fighting with all that came near him, till he was maſter'd; and in his Mouth he had two Guinnies and ſome Silver that he had ſtoln out of the Till of Mr. <hi>Harris</hi>'s Counter: And likewiſe there was taken on him ſome braſs Half-Crowns, that had lain by for ſeveral years. Being carried before Sir <hi>William Turner,</hi> they behaved themſelves very inſolently, and upon notorious Evidence of the Fact were Committed to <hi>Newgate:</hi> And the buſineſs being noiſed, what things were found in their Lodging, Mr. <hi>Thomſon</hi> and Mr. <hi>Baker,</hi> two perſons whoſe Shops were lately broke open, came to view them; and as to the Perriwigs, Mr. <hi>Thompſon</hi> ſwore them to be the ſame that were ſtoln from him: and Mr. <hi>Baker</hi> own'd the three Caſes of Inſtruments. So that now there were three Indictments againſt them, on all which they were found Guilty: And on that for Robbing Mr. <hi>Harris, Grains</hi> the Alehouſe-keeper, where they were taken, was likewiſe Indicted with them as an <hi>Acceſſary after</hi> to the Felony, and fairly Convicted for the ſame; though he made all the Defence that could be, having ſome Relations of very good Worth and Re<g ref="char:EOLhyphen"/>putation: But ſo much the more is he to be blamed, for ſcandalizing his Family with ſuch baſe practiſes.</p>
+            <p>This <hi>Moor</hi> was formerly Tryed for Treaſon for Coyning or Clipping, and <hi>Sides</hi> was burnt in the hand but laſt Seſſions; they had lately taken a Lodg<g ref="char:EOLhyphen"/>ing in Mr. <hi>Grains</hi> houſe, who alleadged that they went out and in that morning the Robbery was committed without his privity; which was the reaſon he denyed that any ſuch men were come in there, he not knowing any thing of it, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Mary Clark</hi> was Convicted for Murdering her Baſtard Child; ſhe was a Lodger in <hi>Roſemary</hi>-Lane, and went for a Widdow, and was delivered with<g ref="char:EOLhyphen"/>out any notice taken by the people of the houſe: but the Infant being acci<g ref="char:EOLhyphen"/>dentally diſcovered in the houſe of Office, there aroſe ſome ſuſpition it might be hers; who upon Examination at firſt denyed it, but by view of her Breaſts, and other ſymptomes, it appearing ſhe had lately had a Child, they taxing her more earneſtly, ſhe confeſſed it, but alledged it was ſtill born; but having no witneſs thereof, as the Statute requires, ſhe was found guilty.</p>
+            <p>
+               <hi>Elizabeth Uniſon</hi> was found guilty of Felony, for Robbing her Maſter of ten or twelve pounds in Money, part of which ſhe confeſſed, acknowledging that ſhe ſpent five pound in one day, and telling him where twenty ſhillings more of it was. An old Thief was Convicted of ſtealing Pewter out of the Houſe of one Mrs <hi>Cleverton,</hi> a widow keeping a Coffee-houſe in <hi>Bell-Sa<g ref="char:EOLhyphen"/>vage</hi> yard on <hi>Ludgate-hill:</hi> four or five of them came in, and called for two Tankards of drink, and took an opportunity to ſteal five Diſhes, and ſeveral Plates out of a ſmall Buttery: the Lad that tended them not liking their looks and carriage, askt the Maid if ſhe had loſt any thing; who not preſent<g ref="char:EOLhyphen"/>ly miſſing the Pewter, replyed No: but having laid down a Groat, and being going away in ſome confuſion, ſome of the Plates dropt down in the room, from or very near the now Priſoner; whereupon the reſt fled, and cleverly carried off the five Diſhes, this fellow onely being taken, who proves a notorious offen<g ref="char:EOLhyphen"/>der, and very lately was in for other Rogueries, but eſcaped; however, the
+<pb n="3" facs="tcp:132097:2"/>Jury were favourable, finding him onely guilty of Petite Larceny, that is, to the value of ten pence.</p>
+            <p>
+               <hi>William Weſtwood</hi> a Carter, was Tryed for killing one <hi>Jeremy Normel,</hi> a perſon of the ſame profeſſion. There being ſevreal Teems together, <hi>Normel</hi> ſud<g ref="char:EOLhyphen"/>denly whipt the Horſes, and drove them ſo, as they had like to have hurt a Boy that belonged to the Priſoner, who was ſo incenſed, that he run and gave <hi>Normel</hi> a box on the ear; not that it could be imagined he had any deſign to kill him, but ſo unhappily it hapned, that with the Blow he fell down; and the Horſes going on, the wheels, or one of the wheels of the Cart run over his Head, and ſhattered it to pieces, ſo that he never ſpake word more. It was proved, that the Priſoner when he ſaw him fall ſo dangerouſly, endeavoured all he could to pull him away, but could not ſo ſuddenly do it as to prevent the miſchief, for which he now appeared much affected with ſorrow; nor was there any proof of former malice between them; ſo that upon the whole matter he was found guilty but of Manſlaughter.</p>
+            <p>A young Wench coming with four more of her naughty Companions to a Victualling Houſe in the <hi>Hay-market,</hi> went up ſtairs, and fetcht ſome Vi<g ref="char:EOLhyphen"/>ctuals from a Cooks, and made ſeveral other ſleeveleſs errands to and fro, to watch and amuſe the people of the Houſe, whilſt in the mean time ſome of the Crew ſlipt up another pair of ſtairs, broke open a Cheſt of Drawers, and ſtole eight pound in Money, ſeveral Rings, and other things of value: they went away for the preſent; but the people having taken better notice of the Priſoner than of any of the reſt, by reaſon of her often going in and out, met with her ſoon after, and now ſwore it directly, that ſhe was one of the Com<g ref="char:EOLhyphen"/>pany, whereupon ſhe was Convicted of the Felony.</p>
+            <p>A young man was queſtioned for ſtealing an Horſe, being met on the Road upon one that was ſtoln ſome time ſince; but there came a perſon now, that juſti<g ref="char:EOLhyphen"/>fied he ſold the ſaid Horſe to the Priſoner; but how he himſelf came by him, is a queſtion that muſt be examined another time; in the mean while the Pri<g ref="char:EOLhyphen"/>ſoner was diſcharged.</p>
+            <p>There were ſeveral Tryed, and ſome Convicted for petty Felonies, and eſ<g ref="char:EOLhyphen"/>pecially that common practice of <hi>Shop-lifting,</hi> and ſtealing of Tankards out of Drinking-houſes.</p>
+            <p>But the moſt remarkable Trial was of two Gentlemen of conſiderable quality, <hi>viz.</hi> Mr. <hi>Doughty</hi> and Mr. <hi>Hambleton,</hi> for killing one <hi>Philip Caps</hi> a Coachman; touching which a multitude of Witneſſes were Examin'd, and the Circumſtances were too many and various to be here related punctually, but the effect thereof was as follows; Mr. <hi>Doughty</hi> having made uſe of the Deceaſed's Coach, coming at laſt to a perſon of Qualitie's houſe in the <hi>Pallace<g ref="char:EOLhyphen"/>yard,</hi> was diſcharging him, and ſo offer'd him what he thought was reaſonable for his Fare; but the Coachman inſiſted that it was too little, and would not take it: whereupon words aroſe, and the Gentleman beat the Coachman ſoundly, without drawing his Sword; during which Buſsle Mr. <hi>Hambleton</hi> came forth of the Perſon of Qualities houſe, and knowing Mr. <hi>Doughty</hi> well, encouraged him to beat the Coachman, and adviſed him to make him <hi>down on his knees and ask him forgiveneſs.</hi> Having thus chaſtized the Coachman, Mr. <hi>Doughty</hi> went from him into the Court-yard and ſhut the door after him; but the Coachman not yet ſatisfied, followed, and clapping his foot to the door, puſht it open: then Mr. <hi>Doughty</hi> drew his Sword, and gave him ſeveral wounds; one Witneſs ſeemed to ſay, Mr. <hi>Hambletons</hi> Sword was alſo drawn, but the reſt did not ſee any ſuch thing; but 'twas proved, that the poor man being down, after he had received ſome wounds, begged very heartily for his Life that he would not kill him, crying out he was wounded; whereupon <hi>Dough<g ref="char:EOLhyphen"/>ty</hi> deſiſting from his fury, ſome people took him up, and opening his Doublet, found abundance of Blood: he had below the left pap a large wound, and as was ſuppoſed <hi>deep,</hi> being run into the Body; but the Witneſſes for the Priſoner repreſented it as onely ſuperficial, that the Rapier glanc'd along on the Ribs,
+<pb n="4" facs="tcp:132097:3"/>and ſo made very little penetration; he was likewiſe wounded in the Thigh, and on the Noſe, and forehead, and a Cut on the hand. Perceiving him in this deſperate condition, <hi>Doughty</hi> preſently cauſed him to be carried to a Sur<g ref="char:EOLhyphen"/>geon, and all the care imaginable to be taken for him, that he ſhould want no<g ref="char:EOLhyphen"/>thing neceſſary for Diet or Cure. The Wounds were given in <hi>April,</hi> and to<g ref="char:EOLhyphen"/>wards the end of <hi>May,</hi> ſeemed to be wholly healed, <hi>Doughty</hi> paying the Sur<g ref="char:EOLhyphen"/>geon, and ſupplying the man with Money to ſupport him, who appeared ſo well, that he went abroad, and once drove his Coach, but it being a wet day, it was ſuppoſed he caught cold, and thereupon relapſed, and ſoon after dyed: the Witneſſes for the Priſoner were of opinion that he dyed of a Feaver, but there were ſeveral Arguments that ſwayed the Court and Jury to a contrary belief: for firſt, during his laſt ſickneſs he vomited abundance of Blood, ſo that it was probable, though the Wounds were healed up outwardly, yet there was no perfect Cure wrought within and beſides, the man to the laſt declared, That he muſt charge his death on the wounds ſo received. After ſeveral hours Exa<g ref="char:EOLhyphen"/>mination of Witneſſes, and conſideration of all Circumſtances, the Jury ac<g ref="char:EOLhyphen"/>quitted Mr. <hi>Hambleton,</hi> and brought in Mr. <hi>Doughty</hi> guilty of Murther.</p>
+            <p>
+               <hi>Arthur Garland</hi> was Convicted for picking the pocket of one <hi>Marg. Rumley,</hi> and ſtealing from her an Hankercheif: he was an old practitioner in that Myſtery, and to aggravate his Crime, no place was ſo ſacred as to deter him from it, for this fact was done in St. <hi>Sepulchres</hi> Church, where being known, one that belonged to the Church watcht him, and ſaw him dive in one mans pocket without any booty, then he came to this woman, and angled out her Handkerchief, but being preſently taxed, dropt it. The Jury found him guilty, and the va<g ref="char:EOLhyphen"/>lue of the Handkerchief ſix pence. It was ſaid, that ſome of the Diving Gang ſhould de<g ref="char:EOLhyphen"/>clare, That they would go no more to Church, becauſe many of them had had ſuch ill luck there of late, but henceforth they would haunt the Quakers Meetings, and nip their bungs without controul, becauſe they would not ſwear, and if ſo there was no danger of Con<g ref="char:EOLhyphen"/>viction.</p>
+            <p>Two Brokers a man and a woman, were Tryed for receiving ſtoln Goods, but for want of direct proof eſcaped. A fellow was found guilty for ſtealing a parcel of Tin; and four perſons, <hi>viz. William Abbot, Ed. Williams, Edward Pritchard,</hi> and <hi>Samuel Griffith,</hi> were Con<g ref="char:EOLhyphen"/>victed for ſtealing a parcel of Damask Curtains, a ſilk Quilt, an embroidered Belt, and o<g ref="char:EOLhyphen"/>ther Goods to a conſiderable value; being ſeen early in a morning with ſuch bundles about <hi>Shooe-lane,</hi> by an honeſt man that knew ſome of them, he cauſed them to be apprehended, and ſince the Goods appeared to have been ſtoln from a perſon of Honour: but two of the Priſoners being but Boys and Pupils, as it may be ſuppoſed to the other two, they were found guilty only to the value of of ten pence, the other two of Felony.</p>
+            <p>
+               <hi>John Giles,</hi> as one of thoſe that made the late barbarous Attempt upon Juſtice <hi>Arnold,</hi> and who was lately brought up out of the Countrey where he was taken, was Arraigned on an Indictment of Miſdemeanour for that villany, but made many excuſes to put off the Tryal, as that he had no notice of it, that his Witneſſes were not here, <hi>&amp;c.</hi> To which Juſtice <hi>Ar<g ref="char:EOLhyphen"/>nold,</hi> who was ready with his Witneſſes, anſwered; That he had as much notice of the time of Tryal as himſelf; That he had brought up his Witneſſes, and ſo might the ſaid <hi>Giles</hi> if he had any; and that the matter was made publick enough, notice having been given that it ſhould now be Tryed, in the Gazet; the Right Honourable the Lord Mayor was likewiſe very urgent not to have it put off any longer, as apprehending theſe pretences and delays to be nothing but the uſual <hi>ſhams</hi> which Papiſts commonly have to ſhuffle off Juſtice; but at laſt, to the end the Priſoner might not have the leaſt pretence to complain that he was ſurprized, the C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urt was pleaſed to put his Tryal off till Wedneſday next in the afternoon, and by that time, if he have any Witneſſes, he may bring them even from St. <hi>Omers.</hi> Mr. <hi>Herbert,</hi> formerly in cuſtody concerning the ſame matter, and Bailed, was now bound over again, with Sureties to appear the firſt day of next Term at the Kings-Bench-Bar, he having ſince, (as was proved by ſeveral Witneſſes) moſt violently and inhumanely beaten a poor Woman in the Countrey, and in his fury gave this worthy reaſon for it, <hi>That ſhe had done his Friend</hi> Giles <hi>an injury,</hi> or words to that effect, as ſuppoſing it ſeems her concerned in diſ<g ref="char:EOLhyphen"/>covering him. He ſeemed to reſent it hard, that he ſhould be proſecuted by ſo mean a perſon, but was very well anſwered, <hi>That when he ſhould beat women of greater Quality, he ſhould have better people to proſecute him;</hi> in the mean time, 'twas all the reaſon in the world that this Woman though never ſo poo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſhould have right done her.</p>
+            <p>There were in all Nine perſons Condemned to dye, ſix Men and three Women, <hi>viz. Philip Doughty</hi> and <hi>Mary Clarke</hi> for Murder: <hi>Jane Lant</hi> for Robbing <hi>Jane Davies</hi> of thirteen pound ſeven ſhillings and ſix pence in Money, and Cloaths to the value of thirty pound: <hi>Iſabel Starling</hi> for Robbing her Maſter of two hundred pound: <hi>Tho. Sides</hi> for the Robbery in <hi>Bartholomew-cloſe,</hi> and other Felonies: <hi>Samuel Griffith</hi> an old Offender for a Felony: <hi>Joſeph Meſtn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> and <hi>William Wilſon,</hi> for Robbing on the H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh-way as Foot-pads: and <hi>James Carew</hi> for a Burghlary in the Houſe of <hi>Richard Bedding</hi> his Neighbour, and ſtealing fifty ſhillings in money, the womans Wedding-Ring, and other goods. Beſides theſe that are to dye, there were Eight burnt in the Hand, Two that are to be Tranſported, Ten to be Whipt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
